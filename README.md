@@ -1,4 +1,4 @@
-# SQL-Query-Samples-Orders-Products-SoftwarePerformance-Metrics
+# SQL-Query-Samples-Orders-Products-Performance-Metrics
 This space includes sample SQL queries that have been adjusted and anonymized from the originals to maintain privacy. Included are queries on change over time, cumulative analysis, customer report, data segmentation, performance,proportional analysis and products report. It is a small snapshot of my work in SQL, but I chose these to share based on their simplicity and readability.
 
 ## Included concepts:
